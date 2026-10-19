@@ -33,6 +33,3 @@ Random Forest achieved an accuracy of **78.76%** and a churn F1-score of **0.67*
 
 ## Conclusion
 This project helped identify customers who may leave the company and understand the factors related to customer churn.
-
-## Author
-Your Name
